@@ -10,4 +10,4 @@ rd /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\cache\servers
 rd /s /q %userprofile%\AppData\Local\FiveM\FiveM.app\cache\subprocess
 del /Q %userprofile%\AppData\Local\FiveM\FiveM.app\cache\crashometry
 
-SET /p WAIT=Hit enter to continue
+SET /p WAIT=Press enter to continue
